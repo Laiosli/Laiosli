@@ -1,7 +1,7 @@
-- 👋 Hi, I'm @LaioSli
-- 👀 I'm interested in entering the programming world
-- 🌱 I'm currently going after learning a little bit of the basics of programming and improving my English, to be able to design my future works.
-- 💞️ I try to collaborate with small projects...
+- Hello, I'm Laion
+- I'm starting my studies on internet security
+- I'm currently trying to learn the basics of cybersecurity and improve my English, so I can design my future work. 🌱 
+- I accept advice from people with knowledge in the area, and I will always add as much knowledge as I can
 - 📫 Contact email: laionsli579@gmail.com
 
 <!---
